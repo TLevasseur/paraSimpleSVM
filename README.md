@@ -6,7 +6,7 @@ Simple SVM is an active constraints algorithm solving a constrained Quadratic Pr
 Usecase example provided in example.m
 
 ## Octave user
-Octave requires two
+Octave requires to go through the two folowing steps in order to get things work.
 <pre>
 warning('off','Octave:possible-matlab-short-circuit-operator');
 more off;
